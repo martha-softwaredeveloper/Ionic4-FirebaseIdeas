@@ -1,6 +1,7 @@
 # Ionic 4 - Firebase 7 Ideas Note-Taking App
+https://www.youtube.com/watch?v=SHRjQA3lvNk
+I followed Simmon Grimm's Tutorial: [How to Build An Ionic 4 App with Firebase and AngularFire 5](https://www.youtube.com/watch?v=SHRjQA3lvNk)
 
-I followed Simmon Grimm's Tutorial: 
 <img src="https://github.com/martha-softwaredeveloper/Ionic4-FirebaseIdeas/blob/master/src/assets/screenshot.png" width="500"/>
 
 ## App Configuration
