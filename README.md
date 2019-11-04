@@ -1,6 +1,6 @@
 # Ionic 4 - Firebase 7 Ideas Note-Taking App
 
-I followed Simmon Grimm's Tutorial: [How to Build An Ionic 4 App with Firebase and AngularFire 5](https://www.youtube.com/watch?v=SHRjQA3lvNk)
+I followed Simon Grimm's Tutorial: [How to Build An Ionic 4 App with Firebase and AngularFire 5](https://www.youtube.com/watch?v=SHRjQA3lvNk)
 
 <img src="https://github.com/martha-softwaredeveloper/Ionic4-FirebaseIdeas/blob/master/src/assets/screenshot.png" width="500"/>
 
@@ -45,3 +45,7 @@ At idea-details.page.ts:
 At idea-details.page.html:
  a) add idea as items for name and notes.
  b) Add footer to CRUD
+
+ ## Author
+ 
+ Simon Grimm
